@@ -1,0 +1,14 @@
+
+Gabe is a statistical computing researcher with interests in
+reproducibility, discoverability, and related meta-computing topics,
+and in improving and advancing the R computing language. He proposed
+the ALTREP framework recently added to R's internals - representing
+one of the largest conceptual changes in R's history to how vector
+data is fundamentally modeled internally - and collaborated closely with R-core
+members on the design and implementation of the framework. Previously,
+Gabe was a Scientist at Genentech Research, where he performed novel
+research on how to improve the reproducibility, comparability, and
+ultimate usefulness of computational results in multi-analyst
+industrial research settings. He is currently taking time to focus on
+open source projects. Gabe received his PhD in Statistics from the
+University of California at Davis.
